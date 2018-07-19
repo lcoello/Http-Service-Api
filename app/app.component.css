@@ -1,0 +1,18 @@
+.image {
+    background-color: blue;
+}
+
+img {
+    margin-left: 30%;
+}
+
+.title {
+    background-color: rgba(17, 179, 201, 0.616);
+    text-align: center;
+}
+h3{
+    color: rgb(13, 105, 78);
+}
+p{
+    color: cornflowerblue;
+}
